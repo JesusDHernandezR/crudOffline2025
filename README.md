@@ -1,3 +1,7 @@
+## Dependencias
+
+- npm install vite5, en este ejercicio sólo estará esta manera de compatibilidad con node v20.11.1, la linea de comando es: npm install vite@5 @vitejs/plugin-react@4 -D
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
